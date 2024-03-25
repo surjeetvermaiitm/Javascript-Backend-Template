@@ -1,4 +1,4 @@
-module.exports = {
-  ErrorResponse: require("./error-response"),
-  SuccessResponse: require("./success-response"),
-};
+export {ErrorResponse} from "./error-response.js";
+export {SuccessResponse} from "./success-response.js"
+
+

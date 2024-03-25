@@ -5,4 +5,4 @@ const success = {
   error: {},
 };
 
-module.exports = success;
+export {success as SuccessResponse};
